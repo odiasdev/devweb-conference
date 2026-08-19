@@ -28,6 +28,7 @@ Basta abrir o arquivo `index.html` no navegador.
 primeiro-repositorio-diw/
 ├── index.html
 ├── login.html
+├── style.css
 └── README.md
 ```
 
